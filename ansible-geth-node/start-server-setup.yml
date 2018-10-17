@@ -11,7 +11,7 @@
     geth_rpc: true
     geth_rpcpublic: true
     geth_rpcaddr: 0.0.0.0
-    geth_rpcport: 8080
+    geth_rpcport: 8545
     geth_rpcapi: "eth,net,web3"
     geth_rpccorsdomain: "*"
   roles:
